@@ -219,4 +219,4 @@ __marimo__/
 
 *.pth
 *.csv
-
+data/
